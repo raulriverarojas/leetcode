@@ -11,4 +11,5 @@
 | 452. Minimum Number of Arrows to Burst Balloons | Med | Wrong Answer | 24 | No | Interval |
 | 452. Minimum Number of Arrows to Burst Balloons | Med | Accepted | 9 | Yes | Interval |
 | 452. Minimum Number of Arrows to Burst Balloons | Med | Accepted| 10 | Yes | Interval | Yes |
-| 150. Evaluate Reverse Polish Notation | Med | |  |  | Stack |  |
+| 150. Evaluate Reverse Polish Notation | Med | Accepted | 27  | No  | Stack | Yes |
+| 53. Maximum Subarray | Med | Accepted | 27 | Yes | Kadanes Algorithm | Yes |
