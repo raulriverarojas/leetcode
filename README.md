@@ -16,4 +16,5 @@
 | 120. Triangle | Med | Wrong Answer  | 20  | No  | Multidimensional DP | No |
 | 120. Triangle | Med | Timeout  | 30  | Yes  | Multidimensional DP | No |
 | 120. Triangle | Med | Accepted  | 52  | Yes  | Multidimensional DP | Yes |
-| 130. Roman To Int | Easy | Accepted  | 52  | Yes  | Hashtable | Yes |
+| 130. Roman To Int | Easy | Accepted  | 52  | No  | Hashtable | Yes |
+| 35. Search Insert Pos | Easy | Accepted  | 30  | No  | Recursion | Yes |
